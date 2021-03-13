@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759754355444",
+    "project_id": "myfirstchatapp-cdbe2",
+    "storage_bucket": "myfirstchatapp-cdbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759754355444:android:db11a425bb726b03cda4a1",
+        "android_client_info": {
+          "package_name": "com.example.ProjectChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759754355444-5rhtc4s0o1umgqq83qf7s4phvepplcjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjvCjXsSKg9jCn48En8eLM_OmMhYsCzY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759754355444-5rhtc4s0o1umgqq83qf7s4phvepplcjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
